@@ -1,0 +1,58 @@
+form {
+    text-align: center;
+    justify-content:center;
+    height:fit-content;
+    width:fit-content;
+    background-color: pink;
+    border-color: rgb(210,17,81);
+    border-width:5px;
+   
+}
+
+#name{
+    margin-left: 20px;
+}
+
+#contact{
+    margin-left: 10px;
+}
+#mail{
+    margin-left: 19px;
+}
+
+input[type = submit]{
+    background-color: rgb(28, 154, 196);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: 150px;
+    padding: 5px;
+    margin-left: 60px;
+    margin-top: 30px;
+    color: white;
+}
+.container{
+    background-color: rgb(242, 185, 204);
+    padding: 25px;
+    border: 1px solid black;    
+}
+h1{
+    color:rgb(210,17,81);
+
+}
+body{
+    justify-content: center;
+    
+    padding: 50px;
+    
+    width: 450px;
+}
+#btn{
+    color:rgb(77,5,29);
+    background-color: rgb(188, 48, 95);
+    height:30px;
+    width:60px;
+    align-self:center;
+
+    margin-top: 20px;
+
+}
