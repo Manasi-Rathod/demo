@@ -1,0 +1,4 @@
+GET : http://localhost:3000/
+POST : http://localhost:3000/profile
+PUT : http://localhost:3000/profile/{id}
+DELETE : http://localhost:3000/profile/{id}
